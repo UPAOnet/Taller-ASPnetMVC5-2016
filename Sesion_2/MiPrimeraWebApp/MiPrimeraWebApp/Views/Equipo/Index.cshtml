@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MiPrimeraWebApp.Models.EquipoModel>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Crear Equipo", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Pais.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Copas)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Pais.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Copas)
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id=item.IDEquipo }) |
+            @Html.ActionLink("Detalles", "Details", new { id=item.IDEquipo }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id=item.IDEquipo })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,5 @@
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToObject\bin\Debug\LinqToObject.exe.config
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToObject\bin\Debug\LinqToObject.exe
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToObject\bin\Debug\LinqToObject.pdb
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToObject\obj\Debug\LinqToObject.exe
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToObject\obj\Debug\LinqToObject.pdb

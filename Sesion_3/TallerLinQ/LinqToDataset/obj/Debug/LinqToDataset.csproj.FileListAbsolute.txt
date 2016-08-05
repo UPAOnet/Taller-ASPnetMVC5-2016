@@ -1,0 +1,8 @@
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToDataset\bin\Debug\LinqToDataset.exe.config
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToDataset\bin\Debug\LinqToDataset.exe
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToDataset\bin\Debug\LinqToDataset.pdb
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToDataset\obj\Debug\LinqToDataset.exe
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToDataset\obj\Debug\LinqToDataset.pdb
+C:\Users\Neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToDataset\obj\Debug\LinqToDataset.csprojResolveAssemblyReference.cache
+C:\Users\Neel\Documents\Visual Studio 2015\Projects\TallerLinQ\LinqToDataset\bin\Debug\LinqToObject.exe
+C:\Users\Neel\Documents\Visual Studio 2015\Projects\TallerLinQ\LinqToDataset\bin\Debug\LinqToObject.pdb

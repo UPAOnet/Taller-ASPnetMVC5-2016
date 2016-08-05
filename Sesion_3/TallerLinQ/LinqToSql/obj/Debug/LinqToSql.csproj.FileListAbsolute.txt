@@ -1,0 +1,8 @@
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToSql\bin\Debug\LinqToSql.exe.config
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToSql\bin\Debug\LinqToSql.exe
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToSql\bin\Debug\LinqToSql.pdb
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToSql\obj\Debug\LinqToSql.exe
+c:\users\neel\documents\visual studio 2015\Projects\TallerLinQ\LinqToSql\obj\Debug\LinqToSql.pdb
+C:\Users\Neel\Documents\Visual Studio 2015\Projects\TallerLinQ\LinqToSql\obj\Debug\LinqToSql.csprojResolveAssemblyReference.cache
+C:\Users\Neel\Documents\Visual Studio 2015\Projects\TallerLinQ\LinqToSql\bin\Debug\LinqToObject.exe
+C:\Users\Neel\Documents\Visual Studio 2015\Projects\TallerLinQ\LinqToSql\bin\Debug\LinqToObject.pdb
